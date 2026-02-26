@@ -1,0 +1,13 @@
+name: machine_learning_env
+channels:
+  - defaults
+dependencies:
+  - tensorflow
+  - ipykernel
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - seaborn
+  - plotly
+  - nbformat
+prefix: C:\Users\Mi PC\miniconda3\envs\tf
